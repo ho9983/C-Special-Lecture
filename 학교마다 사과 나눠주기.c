@@ -27,6 +27,7 @@ int main(int argc, char *argv[]) {
 	for(i=0; i<5; i++) {
 		remain[i] = apple[i] % student[i];
 		sum = sum + remain[i];
+		// sum = sum + (apple[i] % student[i]); 로 한줄로 쓸 수 있다.
 	}
 	printf("남는 사과의 총 개수 : %d", sum);	
 	
