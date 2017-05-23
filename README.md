@@ -1,2 +1,1 @@
-//# College-Projects
-//My college projects are in here.
+My college projects are in here.
