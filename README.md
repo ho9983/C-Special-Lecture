@@ -1,1 +1,1 @@
-My college projects are in here.
+2017 년도 c특강 
